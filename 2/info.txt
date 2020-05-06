@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ElsieSwashCaps-Black
+font link: https://fonts.google.com/specimen/Elsie+Swash+Caps
+font author: Alejandro Inler
+font author site: https://www.behance.net/inler
+
+
+icon designer: Mark S Waterhouse
+icon designer link: /markswaterhouse
+        
+
+fontColor: {"gradient-0":"#C13104","gradient-1":"#6AAD00"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"gradient-0":"#C13104","gradient-1":"#6AAD00"}
+
+      
