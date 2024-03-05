@@ -1,7 +1,7 @@
 ## ApiFoundation logo
 
-+ [Api Foundation - Opensource and Free Environment](https://www.apifoundation.com/)
-+ [docs - Information about API Foundation](https://docs.apifoundation.com/)
++ [Modular Foundation - Opensource and Free Environment](https://www.modware.org/)
++ [docs - Information about MODWARE Foundation](https://docs.modware.org/)
 
 
 
