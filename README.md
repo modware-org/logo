@@ -6,11 +6,17 @@
 
 
 
-## 11
+## 11 rectangle
 ![11/rectangle.png](11/rectangle.png)
 
 
-<div class="" style="background: rgb(217, 217, 217);"><span class="" style="color: rgb(255, 255, 255);">#D9D9D9</span></div><div class="" style="background: rgb(0, 194, 203);"><span class="" style="color: rgb(255, 255, 255);">#00C2CB</span></div><div class="" style="background: rgb(18, 66, 85);"><span class="" style="color: rgb(255, 255, 255);">#124255</span></div><div class="" style="background: rgb(242, 242, 242);"><span class="" style="color: rgb(17, 17, 17);">#f2f2f2</span></div><div class="" style="background: rgb(191, 191, 191);"><span class="" style="color: rgb(255, 255, 255);">#bfbfbf</span></div><div class="" style="background: rgb(0, 243, 254);"><span class="" style="color: rgb(255, 255, 255);">#00f3fe</span></div>
+<div style="background: rgb(217, 217, 217);"><span style="color: rgb(255, 255, 255);">#D9D9D9</span></div><div style="background: rgb(0, 194, 203);"><span style="color: rgb(255, 255, 255);">#00C2CB</span></div><div style="background: rgb(18, 66, 85);"><span style="color: rgb(255, 255, 255);">#124255</span></div><div style="background: rgb(242, 242, 242);"><span style="color: rgb(17, 17, 17);">#f2f2f2</span></div><div style="background: rgb(191, 191, 191);"><span style="color: rgb(255, 255, 255);">#bfbfbf</span></div><div style="background: rgb(0, 243, 254);"><span style="color: rgb(255, 255, 255);">#00f3fe</span></div>
+
+
+## 12 Square
+![12/rectangle.png](11/square.png)
+
+<div style="background: rgb(82, 92, 114);"><span style="color: rgb(255, 255, 255);">#525c72</span></div><div style="background: rgb(115, 115, 115);"><span style="color: rgb(255, 255, 255);">#737373</span></div><div style="background: rgb(0, 194, 203);"><span style="color: rgb(255, 255, 255);">#00C2CB</span></div><div style="background: rgb(255, 255, 255);"><span style="color: rgb(17, 17, 17);">#FFFFFF</span></div><div style="background: rgb(103, 116, 144);"><span style="color: rgb(255, 255, 255);">#677490</span></div><div style="background: rgb(61, 68, 84);"><span style="color: rgb(255, 255, 255);">#3d4454</span></div>
 
 
 ## Colors
