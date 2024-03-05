@@ -1,4 +1,4 @@
-## ApiFoundation logo
+## MODWARE - Modular Foundation logo
 
 + [Modular Foundation - Opensource and Free Environment](https://www.modware.org/)
 + [docs - Information about MODWARE Foundation](https://docs.modware.org/)
