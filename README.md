@@ -19,6 +19,11 @@
 <div style="background: rgb(82, 92, 114);"><span style="color: rgb(255, 255, 255);">#525c72</span></div><div style="background: rgb(115, 115, 115);"><span style="color: rgb(255, 255, 255);">#737373</span></div><div style="background: rgb(0, 194, 203);"><span style="color: rgb(255, 255, 255);">#00C2CB</span></div><div style="background: rgb(255, 255, 255);"><span style="color: rgb(17, 17, 17);">#FFFFFF</span></div><div style="background: rgb(103, 116, 144);"><span style="color: rgb(255, 255, 255);">#677490</span></div><div style="background: rgb(61, 68, 84);"><span style="color: rgb(255, 255, 255);">#3d4454</span></div>
 
 
+# 13
+
+<div  style="background: rgb(84, 84, 84);"><span  style="color: rgb(255, 255, 255);">#545454</span></div><div  style="background: rgb(82, 92, 114);"><span  style="color: rgb(255, 255, 255);">#525c72</span></div><div  style="background: linear-gradient(to right, rgb(81, 80, 79) 0%, rgb(147, 149, 152) 50%, rgb(81, 80, 79) 100%);"><span  style="color: rgb(255, 255, 255);">#939598</span></div><div  style="background: rgb(255, 255, 255);"><span  style="color: rgb(17, 17, 17);">#FFFFFF</span></div><div  style="background: rgb(109, 109, 109);"><span  style="color: rgb(255, 255, 255);">#6d6d6d</span></div><div  style="background: rgb(58, 58, 58);"><span  style="color: rgb(255, 255, 255);">#3a3a3a</span></div>
+
+
 ## Colors
 text
 + brown #6E1E00
